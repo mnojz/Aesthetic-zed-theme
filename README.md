@@ -4,6 +4,12 @@ Aesthetic Theme is a carefully crafted color theme designed to improve readabili
 
 ---
 
+## Preview
+
+![Preview](https://raw.githubusercontent.com/mnojz/Aesthetic-zed-theme/refs/heads/main/assets/preview.png)
+
+---
+
 ## Features
 
 - Thoughtful, low-fatigue palette with accessible contrast.
@@ -11,12 +17,6 @@ Aesthetic Theme is a carefully crafted color theme designed to improve readabili
 - Harmonized UI elements (editor background, gutter, tabs, status bar).
 - Minimal visual noise: subtle selections and unobtrusive decorations.
 - Easy to tweak and adapt for personal preferences.
-
----
-
-## Preview
-
-![Preview](https://raw.githubusercontent.com/mnojz/Aesthetic-zed-theme/refs/heads/main/assets/preview.png)
 
 ---
 
