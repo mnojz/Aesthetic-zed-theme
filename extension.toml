@@ -1,0 +1,8 @@
+id = "aesthetic-theme"
+name = "Aesthetic Theme"
+description = "A soft, eye-comforting bluish dark theme for Zed. made with love 💝"
+version = "1.0.0"
+schema_version = 1
+repository = "https://github.com/mnojz/Aesthetic-zed-theme"
+authors = ["Manoj Joshi"]
+themes = ["themes/aesthetic.json"]
