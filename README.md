@@ -8,11 +8,6 @@ Aesthetic Theme is a carefully crafted color theme designed to improve readabili
 
 ![Preview](https://raw.githubusercontent.com/mnojz/Aesthetic-zed-theme/refs/heads/main/assets/preview.png)
 
----
-
-## Acknowledgements
-
-Thanks to everyone who provides feedback and contributions. If external assets or palettes were used, they are credited in the repository history or CONTRIBUTORS file.
 
 ---
 
